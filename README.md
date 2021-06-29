@@ -6,5 +6,7 @@ Example command line: `minicmlpy`
 
 ```
 $minicmlpy
-Hello!
+Hello World!
 ```
+
+
