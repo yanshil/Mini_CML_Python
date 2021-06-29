@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 
 name = 'minicmlpy'
-version = '0.1.1'
+version = '0.1.3'
 dependencies = []
 
 setup(
@@ -20,7 +20,7 @@ setup(
     install_requires=dependencies,
     entry_points={
         'console_scripts': [
-            'hello = minicmlpy.hello_world:main',
+            'minicmlpy = minicmlpy.hello_world:main',
         ],
     },
 

@@ -2,9 +2,9 @@
 
 This is a simple example python CML Tools package.
 
-Example command line: `hello`
+Example command line: `minicmlpy`
 
 ```
-$hello
+$minicmlpy
 Hello!
 ```
