@@ -20,7 +20,7 @@ setup(
     install_requires=dependencies,
     entry_points={
         'console_scripts': [
-            'minicmlpy = minicmlpy.hello_world:main',
+            'minicmlpy = minicmlpy.cli:main',
         ],
     },
 
